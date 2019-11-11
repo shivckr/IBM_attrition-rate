@@ -1,4 +1,4 @@
-# IBM_attrition-rate
+# IBM_attrition-rate using DL
 The data set consists of 35 variables including the Output variable Attrition.
 
 Education: - 1: Below College 2: College 3: Bachelor 4: Master 5: Doctor
